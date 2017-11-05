@@ -1,4 +1,4 @@
 
 class Dog
-  
-"fido, snoopy, lassie" = Dog.new
+
+"fido" = Dog.new
